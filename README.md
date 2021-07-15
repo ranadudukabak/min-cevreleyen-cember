@@ -1,1 +1,1 @@
-# minimum--evreleyen--ember
+# minimum-cevreleyen-cember
